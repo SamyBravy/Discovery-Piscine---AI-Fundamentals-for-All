@@ -21,3 +21,10 @@ Ex04:
 Prompt 1: chart that illustrates the evolution of the global population over the last 2000 years
 AI used for the second prompt: Claude
 Prompt 2: chart that illustrates the evolution of the global population over the last 2000 years
+
+Ex05:
+Deep Learning.pdf
+slides explaining deep learning to people without prior knowledge
+
+Ex06:
+BarbieDanzanti.html
