@@ -1,0 +1,30 @@
+Ex00:
+Hello World!
+
+Ex01:
+DeepSeek
+Because I've always used chatGPT and I want to test a new AI to find out if there is something better. I've heard that DeepSeek is very good.
+
+Ex02:
+Large Language Models (LLMs) like GPT-3 or GPT-4 use the Transformer architecture, which relies on self-attention mechanisms to process and generate text by predicting the next word in a sequence. They are trained on vast amounts of text data to learn grammar, facts, and reasoning, and generate responses by breaking text into tokens and processing them through multiple layers of neural networks. While powerful, they can sometimes produce incorrect or nonsensical answers due to their reliance on patterns in training data rather than true understanding.
+
+Ex03:
+The study of artificial intelligence (AI) began with early theories of computation and formal logic, leading to the development of AI research in the 1950s. Despite initial optimism, progress faced setbacks in the 1970s and 1980s, known as "AI winters," due to funding cuts and skepticism. AI regained momentum in the late 1990s and 2000s with advancements in neural networks, deep learning, and practical applications, culminating in breakthroughs like AlphaGo and GPT-3. By the 2020s, AI saw massive investment and growth, with a focus on fairness, ethics, and the pursuit of artificial general intelligence (AGI).
+
+Ex04:
+The email thread discusses concerns about the use of Large Language Models (LLMs) within the company, particularly regarding the risk of exposing sensitive or personal data. Marie Dupuis, the Data Protection Officer, raises the issue and suggests establishing guidelines and security measures to comply with GDPR. Jean Lefebvre, the Chief Information Officer, proposes a filtering system and training for employees, while Claire Martin, the Head of Legal, recommends drafting a formal usage charter. Thomas Durand, the Head of Digital Projects, suggests technical solutions to restrict LLM access to sensitive data. Nathalie Dupont, the CEO, supports these actions and encourages a collaborative approach to address the issue promptly.
+
+Ex05:
+draft a short introductory paragraph about OpenAI. Limit the response to a maximum of 500 characters
+
+Ex06:
+From these notes taken during a client meeting, draft a thank you and summary email of the discussions
+
+- Meeting on Fri. Nov. 15 with BuzzAI
+- Jean dir tech.
+- product presentation: analyzing the buzz around a product
+- discussion of a demo with the tech teams -> date to be set
+- budget evaluation for 2 months of surveillance by buzzAI
+
+Ex07:
+Module 00 - complete.

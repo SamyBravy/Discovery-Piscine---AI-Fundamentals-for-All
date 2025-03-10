@@ -1,0 +1,184 @@
+Ex00:
+**Job Title:** Prompt Engineer  
+
+**Main Mission:**  
+As a Prompt Engineer, you will design, optimize, and refine prompts for AI language models to ensure high-quality, accurate, and contextually relevant outputs. Your role will involve collaborating with cross-functional teams to develop effective prompt strategies, troubleshoot model performance, and contribute to the advancement of AI-driven solutions.  
+
+**Required Skills:**  
+- **Technical Skills:**  
+  - Proficiency in natural language processing (NLP) and AI language models (e.g., GPT, BERT).  
+  - Strong programming skills in Python or similar languages.  
+  - Experience with AI/ML frameworks (e.g., TensorFlow, PyTorch).  
+  - Knowledge of data analysis and visualization tools.  
+  - Familiarity with prompt engineering techniques and best practices.  
+
+- **Behavioral Skills:**  
+  - Strong problem-solving and critical thinking abilities.  
+  - Excellent communication and collaboration skills.  
+  - Creativity and adaptability in designing prompts for diverse use cases.  
+  - Attention to detail and a results-oriented mindset.  
+
+**Qualifications:**  
+- Bachelor’s or Master’s degree in Computer Science, Data Science, AI, or a related field.  
+- Certifications in AI/ML or NLP (e.g., TensorFlow Developer Certificate) are a plus.  
+- Proven experience in AI model training, prompt engineering, or NLP projects.  
+
+**Workplace:**  
+- Hybrid (combination of on-site and remote work).  
+
+**Employment Conditions:**  
+- Permanent full-time position with competitive salary and benefits.  
+
+Join us to shape the future of AI and make a meaningful impact in the field of prompt engineering!
+
+Ex01:
+Prompt:
+Company name: Beans' advisors
+Field of activity: help people finding the best places or recipes to eat the best beans
+Generate several slogan proposals for this company
+
+Slogans:
+"Your Ultimate Guide to Bean Bliss!"
+"Discover the World, One Bean at a Time."
+"From Recipes to Restaurants—We’ve Got Your Beans Covered!"
+"Beans Made Better, Every Bite, Every Place."
+"Where Bean Lovers Find Their Perfect Match."
+"Savor the Best Beans, Anytime, Anywhere."
+"Beans’ Advisers: Your Passport to Flavorful Legumes."
+"Unlock the Magic of Beans with Us!"
+"From Humble Beans to Gourmet Dreams."
+"Your Trusted Adviser for All Things Beans."
+
+Ex02:
+Prompt:
+Transform this motivation letter written into a high-level, professional language:
+"Dear Sir/Madam,
+I am writing to you to apply for your telemarketing position. I believe I am cut out for
+this because I like talking to people, and I am sure I can sell well. I have already worked
+in things where you have to talk, like at the checkout, so I already know how to do it.
+I am motivated to work for you, as I need a stable job. I know the phone well, and I am
+ready to start right away. If you give me my chance, I will prove myself useful.
+Looking forward to a quick response from you, I remain available to meet you if necessary.
+Best regards,"
+
+Ex03:
+Translate this text to french:
+"Artificial intelligence (AI) systems are increasingly used in recruitment, particularly for
+pre-selecting CVs. However, despite their appearance of neutrality, these technologies can
+reproduce and even reinforce human biases. One of the main concerns about the use of AI
+in CV sorting is the way it can perpetuate discrimination based on characteristics such
+as age, gender, or ethnic origin.
+For example, an AI trained on historical data could learn to favor white candidates over
+50 years old if, in the past, this group was overrepresented in the positions to be filled.
+The algorithm, based on this data, could conclude that this profile is the most likely to suc-
+ceed, even if this simply reflects prejudices and discriminatory practices in the recruitment
+process. This bias can manifest subtly, for example, by giving exaggerated importance to
+certain experiences or training that are statistically more common among people in this
+group.
+Similarly, for positions perceived as traditionally female, such as nursing jobs, an AI could
+favor women’s CVs. If historical data shows that the majority of people in these positions
+were women, the algorithm could develop an association between the female gender and
+success in this type of role, potentially excluding qualified men.
+These biases are not intentional, but they are inherent in the operation of AIs that rely on
+past data. If the training data reflects inequalities or stereotypes, the algorithm’s decisions
+will be biased. It is therefore crucial to use diversified data and to set up bias correction
+mechanisms to prevent the AI from reproducing discriminatory patterns. Companies must
+also be vigilant in regularly evaluating the algorithms used in their recruitment processes
+to ensure that these tools contribute to greater fairness, rather than perpetuating existing
+inequalities.
+In short, the use of AIs in CV selection carries risks of bias related to age, gender, and
+ethnic origin. It is essential to take measures to ensure that these tools do not become
+amplifiers of injustices, but rather levers to promote inclusion and diversity."
+
+Translation:
+Les systèmes d'intelligence artificielle (IA) sont de plus en plus utilisés dans le recrutement, notamment pour la présélection des CV. Cependant, malgré leur apparence de neutralité, ces technologies peuvent reproduire, voire renforcer, les biais humains. L'une des principales préoccupations concernant l'utilisation de l'IA dans le tri des CV réside dans sa capacité à perpétuer des discriminations basées sur des caractéristiques telles que l'âge, le genre ou l'origine ethnique.  
+
+Par exemple, une IA entraînée sur des données historiques pourrait apprendre à favoriser les candidats blancs de plus de 50 ans si, par le passé, ce groupe était surreprésenté dans les postes à pourvoir. L'algorithme, basé sur ces données, pourrait conclure que ce profil est le plus susceptible de réussir, même si cela reflète simplement des préjugés et des pratiques discriminatoires dans le processus de recrutement. Ce biais peut se manifester de manière subtile, par exemple en accordant une importance exagérée à certaines expériences ou formations statistiquement plus courantes chez les personnes de ce groupe.  
+
+De même, pour des postes perçus comme traditionnellement féminins, tels que les emplois d'infirmier, une IA pourrait favoriser les CV de femmes. Si les données historiques montrent que la majorité des personnes occupant ces postes étaient des femmes, l'algorithme pourrait développer une association entre le genre féminin et la réussite dans ce type de rôle, excluant potentiellement des hommes qualifiés.  
+
+Ces biais ne sont pas intentionnels, mais ils sont inhérents au fonctionnement des IA qui s'appuient sur des données passées. Si les données d'entraînement reflètent des inégalités ou des stéréotypes, les décisions de l'algorithme seront biaisées. Il est donc crucial d'utiliser des données diversifiées et de mettre en place des mécanismes de correction des biais pour éviter que l'IA ne reproduise des schémas discriminatoires. Les entreprises doivent également être vigilantes en évaluant régulièrement les algorithmes utilisés dans leurs processus de recrutement, afin de s'assurer que ces outils contribuent à une plus grande équité plutôt qu'à perpétuer les inégalités existantes.  
+
+En résumé, l'utilisation de l'IA dans la sélection des CV comporte des risques de biais liés à l'âge, au genre et à l'origine ethnique. Il est essentiel de prendre des mesures pour garantir que ces outils ne deviennent pas des amplificateurs d'injustices, mais plutôt des leviers pour promouvoir l'inclusion et la diversité.
+
+Ex04:
+Prompt 1:
+Correct the following email and eliminate any mistakes like spelling mistakes:
+"Hello,
+I just received your request regarding the possibility of getting a refund on the product
+you bought from us. Unfortunately, after checking, we are not able to grant your request.
+Indeed, our return policy does not allow refunds in this kind of situation, especially after
+the deadline that was indicated in the purchase conditions.
+I understand that this situation can be disappointing, but we cannot grant you an excep-
+tion. We do everything possible to satisfy our customer, but in this case, it’s impossible
+to go further with the refund request.
+Hoping that you will continue to trust our service, we remain at your disposal for any
+other question or concern.
+Best regards, [Your name] Customer Service"
+
+Prompt 2:
+Now rewrite it in a more formal and refined style, the goal is to write an easy-to-read email,
+while ensuring professional and polished tone
+
+Ex05:
+Generate the content of several slides (a maximum of 5) for a popular science conference on deep learning. Use the following source as reference: https://en.wikipedia.org/wiki/Deep_learning
+you have to open this link to get informations
+
+Ex06:
+### **Futuristic Scenario: Life on Earth in 50 to 100 Years**
+
+#### **Chapter 1: Climate-Resilient Cities**
+**Summary:** By 2070-2120, cities have transformed into climate-resilient hubs. Rising sea levels and extreme weather events forced humanity to adapt. Coastal cities now float on modular platforms, while inland cities are encased in bioengineered domes that regulate temperature and air quality. Vertical forests and carbon-absorbing skyscrapers dominate skylines. Renewable energy sources like solar, wind, and fusion power are ubiquitous, with energy grids managed by AI to ensure efficiency.
+
+---
+
+#### **Chapter 2: The Post-Carbon Economy**
+**Summary:** The global economy has fully transitioned away from fossil fuels. Carbon credits are the primary currency, and industries compete to achieve negative emissions. Circular economies dominate, with zero-waste production and recycling systems powered by advanced robotics. Space-based solar farms and asteroid mining provide rare materials, reducing Earth's resource strain. Universal basic income (UBI) is standard, funded by automation taxes.
+
+---
+
+#### **Chapter 3: AI and Human Symbiosis**
+**Summary:** Artificial General Intelligence (AGI) is integrated into daily life. AI companions assist with decision-making, education, and healthcare. Neural implants allow humans to interface directly with the digital world, enhancing cognitive abilities. However, ethical debates persist about AI autonomy and privacy. Governments enforce strict regulations to prevent misuse, ensuring AI remains a tool for human flourishing.
+
+---
+
+#### **Chapter 4: The Genetic Revolution**
+**Summary:** CRISPR and gene-editing technologies have eradicated hereditary diseases and extended human lifespans to 120+ years. Designer babies are common, with parents selecting traits like intelligence, resilience, and even aesthetic features. Bioengineered organs and tissues are grown in labs, eliminating transplant waiting lists. However, genetic inequality creates a new social divide between the enhanced and the unenhanced.
+
+---
+
+#### **Chapter 5: The Virtual Metaverse**
+**Summary:** The metaverse has evolved into a fully immersive digital universe, blending augmented reality (AR) and virtual reality (VR). People work, socialize, and entertain themselves in hyper-realistic virtual environments. Digital avatars are indistinguishable from real humans, and virtual economies rival physical ones. Some individuals choose to live permanently in the metaverse, raising questions about identity and reality.
+
+---
+
+#### **Chapter 6: Space Colonization**
+**Summary:** Mars and the Moon host thriving colonies, supported by advanced life-support systems and terraforming technologies. Space travel is routine, with hypersonic shuttles transporting people between Earth and off-world settlements. Asteroid mining provides rare minerals, while space-based agriculture supplies food for Earth and colonies. Humanity's multi-planetary existence sparks a new era of exploration and innovation.
+
+---
+
+#### **Chapter 7: The Social Fabric**
+**Summary:** Society is more interconnected yet fragmented. Digital nomadism is the norm, with people living in transient communities across the globe. Cultural boundaries blur as virtual interactions dominate, but localized movements emphasize traditional values and sustainability. Mental health is a top priority, with AI therapists and neurofeedback devices helping individuals cope with the fast-paced, hyperconnected world.
+
+---
+
+#### **Chapter 8: Environmental Restoration**
+**Summary:** Massive geoengineering projects have reversed some of the worst effects of climate change. Carbon capture technologies and ocean-cleaning drones have restored ecosystems. Reforestation efforts, aided by drone seed planters, have brought back biodiversity. Extinct species are revived through de-extinction programs, reintroducing them into rewilded habitats. Earth is on a path to ecological balance, though challenges remain.
+
+---
+
+#### **Chapter 9: The New Workforce**
+**Summary:** Automation has replaced 80% of traditional jobs, but new roles have emerged in AI oversight, space exploration, and creative industries. Lifelong learning is the norm, with micro-credentials and virtual academies offering continuous education. Remote work is universal, with holographic meetings replacing physical offices. The gig economy has evolved into a decentralized network of freelancers and micro-entrepreneurs.
+
+---
+
+#### **Chapter 10: Global Governance**
+**Summary:** A unified global government, powered by AI and blockchain, oversees planetary affairs. National borders have softened, with regions collaborating on shared challenges like climate change and space exploration. Direct democracy is enabled by real-time voting systems, ensuring transparency and inclusivity. However, tensions persist between global governance and local autonomy, with some regions resisting centralized control.
+
+---
+
+### **Conclusion**
+Life on Earth in 50 to 100 years is a blend of utopian and dystopian elements. Technological advancements have solved many of today's problems, but new challenges have emerged. Humanity thrives in a world of abundance, yet must navigate the ethical, social, and environmental implications of its progress. The future is not without risks, but it holds immense potential for a harmonious coexistence between humans, technology, and nature.
+
+Ex07:
+Module 01 - complete.

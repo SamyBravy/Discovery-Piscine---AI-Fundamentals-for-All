@@ -1,0 +1,23 @@
+Ex00:
+https://deepai.org/machine-learning-model/text2img
+a Rubik’s Cube on a pillow
+
+Ex01:
+Prompt 1: a closed box hiding a sheep
+Prompt 2: a closed box hiding a sheep in a cartoon style
+Prompt 3: a closed box hiding a sheep in a pop-art style
+
+Ex02:
+Prompt 1: deep learning
+Prompt 2: data moving through layers, neurons and layers
+Prompt 3: pope francis riding a turtle
+Prompt 4: various images of Healthcare, Finance, Entertainment, Autonomous Systems
+Prompt 5: quantum computing
+
+Ex03:
+logo of beans (fagioli) in a dish with the text "Beans' advisors" with white background
+
+Ex04:
+Prompt 1: chart that illustrates the evolution of the global population over the last 2000 years
+AI used for the second prompt: Claude
+Prompt 2: chart that illustrates the evolution of the global population over the last 2000 years
