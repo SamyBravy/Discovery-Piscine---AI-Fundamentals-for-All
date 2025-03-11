@@ -3,9 +3,9 @@ https://deepai.org/machine-learning-model/text2img
 a Rubik’s Cube on a pillow
 
 Ex01:
-Prompt 1: a closed box hiding a sheep
-Prompt 2: a closed box hiding a sheep in a cartoon style
-Prompt 3: a closed box hiding a sheep in a pop-art style
+Prompt 1: In the book “The Little Prince” by Antoine de Saint-Exupéry, the little prince asks the narrator to draw him a sheep. All the proposed drawings are rejected by the little prince, until the narrator draws a box and tells him that the sheep is inside a closed box hiding a sheep
+Prompt 2: In the book “The Little Prince” by Antoine de Saint-Exupéry, the little prince asks the narrator to draw him a sheep. All the proposed drawings are rejected by the little prince, until the narrator draws a box and tells him that the sheep is inside a closed box hiding a sheep. In a cartoon style
+Prompt 3: In a pop-art style with dots: In the book “The Little Prince” by Antoine de Saint-Exupéry, the little prince asks the narrator to draw him a sheep. All the proposed drawings are rejected by the little prince, until the narrator draws a box and tells him that the sheep is inside a closed box hiding a sheep. In a pop-art style
 
 Ex02:
 Prompt 1: deep learning
@@ -24,7 +24,14 @@ Prompt 2: chart that illustrates the evolution of the global population over the
 
 Ex05:
 Deep Learning.pdf
+Gamma
 slides explaining deep learning to people without prior knowledge
 
 Ex06:
 BarbieDanzanti.html
+
+Ex07:
+Dangers of AI.html
+
+Ex08:
+a whole visible room with a whole visible bed with brown bed feet and a red cat with blue iris lying on a green blanket, on top of the bed
